@@ -1,0 +1,31 @@
+html{
+    background-color: beige;
+}
+header h1{
+    text-align: center;
+    background-color: burlywood;
+    box-shadow: 10px 10px 8px 0px rgba(34, 60, 80, 0.2);
+}
+p{
+    color: darkgreen;
+}
+img{
+    float: left;
+    margin: 20px;
+}
+li{
+    cursor: pointer;
+    border-radius: 5px;
+    padding: 5px;
+    transition: 1s;
+}
+
+footer{
+    text-align: left;
+    background-color: burlywood;
+    margin: 10px;
+}
+
+footer p{
+    color: black;
+}
